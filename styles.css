@@ -2,12 +2,12 @@
     display: flex;
 }
 
-.bird_small{
+.bird-small{
     width: 64px;
     height: 64px;
 }
 
-.bird_large{
+.bird-large{
     width: 320px;
     height: 320px;
 }
