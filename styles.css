@@ -2,14 +2,14 @@
     display: flex;
 }
 
-.bird-small{
-    width: 64px;
+.small-bird{
     height: 64px;
+    width: 64px;
 }
 
-.bird-large{
-    width: 320px;
+.large-bird{
     height: 320px;
+    width: 320px;
 }
 
 .column{
